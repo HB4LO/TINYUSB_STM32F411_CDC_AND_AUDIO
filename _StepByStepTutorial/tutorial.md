@@ -2,7 +2,7 @@
 <p align="left">
   <img src="images/1.png"  title="Search for Microcontroller">
 </p>
-
+-------------------------------------------------------------------------
 <p align="left">
   <img src="images/2.png"  title="Activate Oscillators">
 </p>
