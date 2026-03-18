@@ -1,236 +1,168 @@
 # First, we have to create the CubeMX project & configure peripherals
+
 <p align="left">
-  <img src="images/1.png"  title="Search for Microcontroller">
+  <img src="images/1.png" width="800" title="Search for Microcontroller">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/2.png"  title="Activate Oscillators">
+  <img src="images/2.png" width="800" title="Activate Oscillators">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/3.png"  title="Activate SWD">
+  <img src="images/3.png" width="800" title="Activate SWD">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/4.png"  title="Activate USB">
+  <img src="images/4.png" width="800" title="Activate USB">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/5.png"  title="Enable Interrupt">
+  <img src="images/5.png" width="800" title="Enable Interrupt">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/6.png"  title="Configure Clock">
+  <img src="images/6.png" width="800" title="Configure Clock">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/7.png"  title="Generate Code">
+  <img src="images/7.png" width="800" title="Generate Code">
 </p>
-<br>
-----------------------------------------------------------------------------------
-----------------------------------------------------------------------------------
-<br>
 
 # Then, we configure the Cude IDE environments + Add some lines of code
+
 <p align="left">
-  <img src="images/8.png"  title="Create/Import">
+  <img src="images/8.png" width="800" title="Create/Import">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/9.png"  title="Select Directory">
+  <img src="images/9.png" width="800" title="Select Directory">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/10.png"  title="Import Project to IDE">
+  <img src="images/10.png" width="800" title="Import Project to IDE">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 Download the github project and Copy past the files to your project 
 
 <p align="left">
-  <img src="images/11.png"  title="Importing tinyusb">
+  <img src="images/11.png" width="800" title="Importing tinyusb">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/12.png"  title="Copying Inc files">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/13.png"  title="Copying Src files">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/14.png"  title="Adding Tinyusb Source Codes">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/15.png"  title="Adding Tinyusb Source Codes 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/16.png"  title="Adding Tinyusb Source Codes 3">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/17.png"  title="Adding Tinyusb Src to path">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/18.png"  title="Adding Tinyusb Src to path 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/19.png"  title="Adding Tinyusb Device to path">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/20.png"  title="Adding Tinyusb Device to path 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/21.png"  title="Verifying the Includes">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/22.png"  title="Adding to main.c">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/23.png"  title="Adding to main.c 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/24.png"  title="Adding to stm32f4xx_it.c">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/25.png"  title="Adding to stm32f4xx_it.c 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/26.png"  title="Build all 1">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/27.png"  title="Build all 2">
-</p>
-<br>
-----------------------------------------------------------------------------------
-<br>
-<p align="left">
-  <img src="images/28.png"  title="Programm">
-</p>
-<br>
-----------------------------------------------------------------------------------
-----------------------------------------------------------------------------------
-<br>
-# Let's test That, plug the USB C (Audacity must be installed)! 
 
 <p align="left">
-  <img src="images/usb.png"  title="this is fine">
+  <img src="images/12.png" width="800" title="Copying Inc files">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 <p align="left">
-  <img src="images/29.png"  title="Device manager shows USB headset & COM PORT">
+  <img src="images/13.png" width="800" title="Copying Src files">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
+<p align="left">
+  <img src="images/14.png" width="800" title="Adding Tinyusb Source Codes">
+</p>
+
+<p align="left">
+  <img src="images/15.png" width="800" title="Adding Tinyusb Source Codes 2">
+</p>
+
+<p align="left">
+  <img src="images/16.png" width="800" title="Adding Tinyusb Source Codes 3">
+</p>
+
+<p align="left">
+  <img src="images/17.png" width="800" title="Adding Tinyusb Src to path">
+</p>
+<p align="left">
+  <img src="images/18.png" width="800" title="Adding Tinyusb Src to path 2">
+</p>
+
+<p align="left">
+  <img src="images/19.png" width="800" title="Adding Tinyusb Device to path">
+</p>
+
+<p align="left">
+  <img src="images/20.png" width="800" title="Adding Tinyusb Device to path 2">
+</p>
+
+<p align="left">
+  <img src="images/21.png" width="800" title="Verifying the Includes">
+</p>
+
+<p align="left">
+  <img src="images/22.png" width="800" title="Adding to main.c">
+</p>
+
+<p align="left">
+  <img src="images/23.png" width="800" title="Adding to main.c 2">
+</p>
+
+<p align="left">
+  <img src="images/24.png" width="800" title="Adding to stm32f4xx_it.c">
+</p>
+
+<p align="left">
+  <img src="images/25.png" width="800" title="Adding to stm32f4xx_it.c 2">
+</p>
+
+<p align="left">
+  <img src="images/26.png" width="800" title="Build all 1">
+</p>
+
+<p align="left">
+  <img src="images/27.png" width="800" title="Build all 2">
+</p>
+
+<p align="left">
+  <img src="images/28.png" width="800" title="Programm">
+</p>
+
+# Let's test That, plug the USB C (Audacity must be installed)!
+
+<p align="left">
+  <img src="images/usb.png" width="800" title="this is fine">
+</p>
+
+<p align="left">
+  <img src="images/29.png" width="800" title="Device manager shows USB headset & COM PORT">
+</p>
+
 Select "Tinyusb headset" as the Output audio device. 
 
 <p align="left">
-  <img src="images/30.png"  title="Selecting Audio output">
+  <img src="images/30.png" width="800" title="Selecting Audio output">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 Open audacity and set Input = Tinyusb, output = headset or speaker (depends on your PC) 
 
 <p align="left">
-  <img src="images/31.png"  title="Configure inputs/outputs">
+  <img src="images/31.png" width="800" title="Configure inputs/outputs">
 </p>
 
 <p align="left">
-  <img src="images/32.png"  title="Configure inputs/outputs 2 ">
+  <img src="images/32.png" width="800" title="Configure inputs/outputs 2 ">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 Choose your favourite music, for example : https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Start recording with Audacity
+
 <p align="left">
-  <img src="images/33.png"  title="Recording audio loopback">
+  <img src="images/33.png" width="800" title="Recording audio loopback">
 </p>
-<br>
-----------------------------------------------------------------------------------
-<br>
+
 Play back what you just recorded (You now have a loopback working) ! 
 Let's try with a 500Hz Low pass filter 
 
 <p align="left">
-  <img src="images/34.png"  title="Activating the Audio Filter">
+  <img src="images/34.png" width="800" title="Activating the Audio Filter">
 </p>
-<br>
-----------------------------------------------------------------------------------
-----------------------------------------------------------------------------------
-<br>
-# CDC testing (Putty is required, or equivalent) 
+
+# CDC testing (Putty is required, or equivalent)
+
 Open the COM port that just has been created. Whatever you type is shown back
+
 <p align="left">
-  <img src="images/35.png"  title="Openning COM PORT">
+  <img src="images/35.png" width="800" title="Openning COM PORT">
 </p>
 
 <p align="left">
-  <img src="images/36.png"  title="Enjoy COM PORT LOOPBACK">
+  <img src="images/36.png" width="800" title="Enjoy COM PORT LOOPBACK">
 </p>
